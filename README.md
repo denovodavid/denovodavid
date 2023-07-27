@@ -1,1 +1,1 @@
-# 👉 new stuff here: [gitlab.com/denovodavid](https://gitlab.com/denovodavid)
+# ◯ sourcehut: [git.sr.ht/~denovodavid](https://git.sr.ht/~denovodavid/)
